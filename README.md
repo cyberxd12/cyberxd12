@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Luiz Felipe</h1>
 
-<!--
-**cyberxd12/cyberxd12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor Back-end em formação<br>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Estágio%20e%20Júnior-success?style=flat-square"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre
+
+Estudante de Desenvolvimento de Sistemas (SENAI) e Engenharia de Software(UNIFAN).  
+Atatualmente estudando com foco em back-end, construção de APIs e modelagem de dados, buscando sempre aplicar boas práticas e desenvolver soluções eficientes para problemas reais.
+
+---
+
+## Objetivo
+
+Busco oportunidade como desenvolvedor back-end júnior, banco de dados e desenvolvimento de sistemas reais para aquisição de experiencia do ambiente profissional.
+
+---
+
+## Contato
+
+- Email: luizfelipe01801@gmail.com  
+- GitHub: https://github.com/cyberxd12
