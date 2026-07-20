@@ -1,29 +1,37 @@
-<h1 align="center">Luiz Felipe</h1>
+<h1 align="center">Olá, eu sou o Luiz Felipe 👋</h1>
 
 <p align="center">
-  Desenvolvedor Back-end em formação<br>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Estágio%20e%20Júnior-success?style=flat-square"/>
+  <b>Desenvolvedor Back-end & Engenharia de Automação</b><br>
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Estágio-brightgreen" alt="Status Disponível para Estágio">
 </p>
 
 ---
 
-## Sobre
+## 💻 Sobre Mim
 
-Estudante de Desenvolvimento de Sistemas (SENAI) e Engenharia de Software(UNIFAN).  
-Atatualmente estudando com foco em back-end, construção de APIs e modelagem de dados, buscando sempre aplicar boas práticas e desenvolver soluções eficientes para problemas reais.
-
----
-
-## Objetivo
-
-Busco oportunidade como desenvolvedor back-end júnior, banco de dados e desenvolvimento de sistemas reais para aquisição de experiencia do ambiente profissional.
+Estudante de **Análise e Desenvolvimento de Sistemas (SENAI)** e **Engenharia de Software (UNIFAN)**. 
+Atualmente atuo com foco em desenvolvimento back-end, integração de APIs REST, automação de processos corporativos e segurança de dados, unindo a teoria acadêmica à resolução de problemas reais de infraestrutura e sistemas corporativos.
 
 ---
 
-## Contato
+## 🛠️ Tecnologias e Ferramentas
 
-- Email: luizfelipe01801@gmail.com  
-- GitHub: https://github.com/cyberxd12
+* **Linguagens:** Python
+* **Arquitetura & Integração:** APIs REST, Clientes HTTP (`Requests`), Autenticação baseada em Tokens (OAuth), Tratamento de Exceções.
+* **Automação & Desktop:** PyAutoGUI, Mss (Processamento de Interface e Capturas).
+* **Banco de Dados & Dados:** JSON, Variáveis de Ambiente (`.env`), Princípios de Minimização de Dados (LGPD).
+* **Controle de Versão:** Git & GitHub
+
+---
+
+## 🎯 Objetivo
+
+Busco oportunidades como **Desenvolvedor Back-end (Estágio ou Júnior)** onde eu possa aplicar conhecimentos em arquitetura de software, integração de sistemas, automação e boas práticas de desenvolvimento.
+
+---
+
+## 📫 Contato
+
+* **Email:** [luizfelipe122724@gmail.com](mailto:luizfelipe122724@gmail.com)
+* **GitHub:** [github.com/cyberxd12](https://github.com/cyberxd12)
+* **LinkedIn:** [linkedin.com/in/luizfelipe](https://linkedin.com/in/luizfelipe)
