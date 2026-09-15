@@ -17,11 +17,8 @@ Atualmente atuo com foco em desenvolvimento back-end, integração de APIs REST,
 ## 🛠️ Tecnologias e Ferramentas
 
 * **Linguagens:** Python
-* **Arquitetura & Integração:** APIs REST, Clientes HTTP (`Requests`), Autenticação baseada em Tokens (OAuth), Tratamento de Exceções.
+* **Arquitetura & Integração:** APIs REST, Clientes HTTP (`Requests`), Autenticação baseada em Tokens (OAuth).
 * **Automação & Desktop:** PyAutoGUI, Mss (Processamento de Interface e Capturas).
-* **Banco de Dados & Dados:** JSON, Variáveis de Ambiente (`.env`), Princípios de Minimização de Dados (LGPD).
-* **Controle de Versão:** Git & GitHub
-
 ---
 
 ## 🎯 Objetivo
